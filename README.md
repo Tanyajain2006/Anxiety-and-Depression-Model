@@ -10,7 +10,7 @@ The implementation focuses on analyzing, preprocessing datasets, and using a sup
 
 # Technologies Used
 1. **Programming Language:** Python
-2. **Libraries:** Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn
+2. **Libraries:** Numpy, Pandas, Scikit-learn, String
 3. **Development Environment:** Google Colab, Jupyter Notebook
 4. **Algorithm:** Multinomial Naive Bayes
 
