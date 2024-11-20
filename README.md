@@ -28,7 +28,23 @@ The implementation focuses on analyzing, preprocessing datasets, and using a sup
 3. **Data Split:** 80% Training Data and 20% Testing Data
 
 # Results
-The model achieved significant accuracy, demonstrating the potential for using text classification to support mental health analysis:
+1. **Accuracy:** Achieved an accuracy of 89.59% on test data.
+2. **Precision:**
+   a) Class 0: 0.89
+   b) Class 1: 1.00
+3. **Recall:**
+   a) Class 0: 1.00
+   b) Class 1: 0.09
+4. **F1 Score:**
+   a) Class 0: 0.94
+   b) Class 1: 0.16
 
-Accuracy: Achieved an accuracy of [Insert Accuracy] on test data.
-Precision and Recall: Detailed in the classification report, providing insight into the performance for each label.
+# Key Insights
+1. The Multinomial Naive Bayes classifier is efficient for text-based analysis, performing well with TF-IDF features.
+2. Future iterations could explore more advanced models such as Support Vector Machines (SVM) or Neural Networks for improved accuracy.
+
+# Conclusion
+This project demonstrates the effectiveness of machine learning in identifying anxiety and depression using text data. By using supervised learning algorithms, it highlights the potential of AI-driven approaches in supporting mental health assessment and early detection.
+
+# References
+https://www.kaggle.com/datasets/sahasourav17/students-anxiety-and-depression-dataset
