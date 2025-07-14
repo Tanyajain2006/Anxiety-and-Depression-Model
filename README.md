@@ -1,4 +1,5 @@
 # Anxiety-and-Depression-Model
+Deployed Link: https://huggingface.co/spaces/tanyajain/BlueLens
 
 # Overview
 This project leverages Artificial Intelligence and Machine Learning (AIML) technologies to detect signs of anxiety and depression in textual data. By developing intelligent systems that analyze text, this project aims to provide insights into mental health challenges based on social media or other text data.
